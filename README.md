@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developing
 - 🌱 I’m currently doing BCA course 
 - 💞️ I’m looking to collaborate on ...
-- 📫 Phone:- 8010817144
+- 📫 
 
 <!---
 ItsShivam181/ItsShivam181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
